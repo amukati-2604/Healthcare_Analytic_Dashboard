@@ -64,7 +64,7 @@ A  **Star Schema** approach was utilized:
 
 ## Dashboard Screenshots
 
-![Dashboard Overview](dashboard/Final_Dashboard.png)
+![Dashboard Overview](Dashboard/Final_Dashboard.png)
 
 
 ## Technology Stack
